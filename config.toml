@@ -1,6 +1,6 @@
-baseURL = "https://barnwedding.web.app/"
+baseURL = "https://weddingbeach.web.app/"
 languageCode = "en-us"
-title = "Barn Wedding"
+title = "Wedding Beach"
 theme = "z"
 
 [taxonomies]
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://american-wedding.web.app/"
+    homepage = "https://weddingbeach.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
